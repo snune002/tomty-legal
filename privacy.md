@@ -576,7 +576,7 @@ saved command history without stopping these services. "Delete my device data" r
 clause 3.19 and clears the app's local data, except its device identifier. You need a new enrollment code to
 return.
 
-To ask about the records we keep about your device, email us at vocalist.app.feedback@gmail.com.
+To ask about the records we keep about your device, email us at tomty.app.feedback@gmail.com.
 
 ## 8. Children's privacy
 
@@ -600,4 +600,4 @@ again.
 
 ## 10. Contact
 
-Questions about this policy or your data: vocalist.app.feedback@gmail.com
+Questions about this policy or your data: tomty.app.feedback@gmail.com

@@ -94,7 +94,7 @@ device sees a message and a contact email.
 ## 9. Feedback
 
 9.1 We want to hear from you. Send feedback with TestFlight's screenshot feedback, by email at
-vocalist.app.feedback@gmail.com, or on our Discord at https://discord.gg/XbDEsDYAeC.
+tomty.app.feedback@gmail.com, or on our Discord at https://discord.gg/XbDEsDYAeC.
 
 9.2 We may use your feedback to improve the app, without paying you or naming you.
 
@@ -115,7 +115,7 @@ Privacy Policy at https://policies.google.com/privacy.
 
 ## 13. Contact
 
-Questions: vocalist.app.feedback@gmail.com.
+Questions: tomty.app.feedback@gmail.com.
 
 ## 14. Third-party notices
 
